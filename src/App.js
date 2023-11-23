@@ -1,10 +1,9 @@
 import React from 'react';
 import './style.css';
-
-import useCounter from './hooks/useCounter';
-
 import CounterOne from './CounterOne';
 import CounterTwo from './CounterTwo';
+
+//https://www.youtube.com/watch?v=W3_GIiN-nuc
 
 export default function App() {
   return (
